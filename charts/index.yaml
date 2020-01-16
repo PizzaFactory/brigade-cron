@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  brigade-cron:
+  - apiVersion: v1
+    appVersion: v0.12.0
+    created: "2020-01-16T15:45:55.635784984+09:00"
+    description: CronJob for triggering a Brigade event
+    digest: 7004dd1f65e5e4cc77bdafdfaa03c3ec45fc960677bc697bdc62d9d5e25ce349
+    name: brigade-cron
+    urls:
+    - brigade-cron-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-16T15:45:55.635435407+09:00"
